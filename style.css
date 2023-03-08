@@ -3,14 +3,14 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 
-h1, h2,h3,h4,h5,h6{
+h1 {
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     color:hsl(218, 44%, 22%);
-    font-size: 18px;
+    font-size: 17px;
 }
 
-p{
+h2 {
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
     font-size: 12px;
