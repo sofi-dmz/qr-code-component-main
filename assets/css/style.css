@@ -7,13 +7,13 @@ h1 {
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     color:hsl(218, 44%, 22%);
-    font-size: 17px;
+    font-size: 16px;
 }
 
 h2 {
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     color: hsl(220, 15%, 55%)
 }
 .container{
